@@ -3,7 +3,7 @@
 Eu sou o Murilo e seja bem-vindo ao meu Github. 
 
 ### :question: About me
-Sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso, e estou aprofundando meu conhecimento em web e mobile. Você também pode me encontrar no <a href="https://www.linkedin.com/in/murilo-noboru-hira%C3%A7aka-kawanami-70a20b199/">LinkedIn</a>.
+Sou estudante de Ciência da Computação na Universidade Federal de Mato Grosso, e estou aprofundando meu conhecimento em web e mobile. Você também pode me encontrar no <b><a href="https://www.linkedin.com/in/murilo-noboru-hira%C3%A7aka-kawanami-70a20b199/">LinkedIn</a></b>.
 
 ### :wrench: Technologies and tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
