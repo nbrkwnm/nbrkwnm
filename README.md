@@ -5,12 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noboru.kawanami@gmail.com)](mailto:noboru.kawanami@gmail.com)
 
 ### :pushpin: About me
-
 I'm Murilo and welcome to my Github! I'm a Computer Science student at Federal University of Mato Grosso and also a Fullstack Developer with .NET platform at Unicus. 
 
 At the moment I'm learning **React** | **Next.js**
 
 You can contact me using the cards above.
+
 
 ### :wrench: Technologies and tools
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=6500e0)
