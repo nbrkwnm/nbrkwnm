@@ -4,6 +4,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981555222&text=Olá!)](https://api.whatsapp.com/send?phone=5565981555222&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noboru.kawanami@gmail.com)](mailto:noboru.kawanami@gmail.com)
 
+### :pushpin: About me
+
 I'm Murilo and welcome to my Github! I'm a Computer Science student at Federal University of Mato Grosso and also a Fullstack Developer with .NET platform at Unicus. 
 
 At the moment I'm learning **React** | **Next.js**
