@@ -9,9 +9,6 @@ I'm Murilo and welcome to my Github! I'm a Computer Science student at Federal U
 
 At the moment I'm learning **React** | **Next.js**
 
-You can contact me using the cards above.
-
-
 ### :wrench: Technologies and tools
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=6500e0)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6500e0)
