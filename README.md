@@ -11,7 +11,6 @@ I'm Murilo and welcome to my Github! Actually I'm a Computer Science student at 
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6500e0)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=6500e0)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=6500e0)
-![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=React&logoColor=white&color=6500e0)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6500e0)
 
 <!--
